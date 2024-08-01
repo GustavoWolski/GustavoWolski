@@ -46,13 +46,10 @@ Minha trajetória profissional é marcada por um constante aprendizado e evoluç
 
 - 🏞️ Adoro trilhas e camping.
 - 🍣 Apaixonado por sushi.
-- 🐙 Fascinado por polvos e suas curiosidades.
+- 🐙 Fascinado por polvos e águas vivas
 
 ## 📬 Entre em Contato
 
 Se você precisa de um projeto inovador ou quer discutir ideias sobre desenvolvimento web, ciência de dados ou BI, sinta-se à vontade para entrar em contato. Vamos criar algo incrível juntos!
 
 ---
-
-Lembre-se de substituir os placeholders como `seuemail@gmail.com`, `https://www.linkedin.com/in/seulinkedin`, `https://api.whatsapp.com/send?phone=SEUNUMERO`, `https://www.facebook.com/seuprofile`, e `https://www.instagram.com/seuprofile` com suas informações reais.
-
